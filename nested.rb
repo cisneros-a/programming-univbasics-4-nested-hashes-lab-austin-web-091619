@@ -54,7 +54,7 @@ def dennis_ritchies_language
           :known_for => "Unix",
           :languages => ["C"]
         }
-     } programmer_hash[:grace_hopper]
+     } p programmer_hash[:grace_hopper]
 end
 
 def adding_matz
